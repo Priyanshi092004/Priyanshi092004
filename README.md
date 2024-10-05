@@ -30,7 +30,7 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
 
 ### GitHub Stats
 
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitin8866&count_private=true&show_icons=true&theme=radical)
+![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshi092004&count_private=true&show_icons=true&theme=radical)
 
 ### Skills Proficiency
 
@@ -44,5 +44,5 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
 - ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=flat-square)
 
 ### Streak Stats
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitin8866&theme=radical)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi092004&theme=radical)
 
