@@ -18,7 +18,7 @@ I am currently pursuing my Bachelor's Degree in Information Technology from DRS.
 </p>
 <h2>Contact me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nitin-maharaj-851987322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshi-patel-787a39328/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:004priyanshipatel@gmail.com" target="_blank">
